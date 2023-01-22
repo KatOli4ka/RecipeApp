@@ -1,0 +1,187 @@
+{
+  "1": {
+    "name": "Творог",
+    "count": 350,
+    "measureUnit": "г."
+  },
+  "2": {
+    "name": "Яйцо куриное",
+    "count": 2,
+    "measureUnit": "шт."
+  },
+  "3": {
+    "name": "Мука пшеничная",
+    "count": 6,
+    "measureUnit": "ст.л."
+  },
+  "4": {
+    "name": "Сахар",
+    "count": 2,
+    "measureUnit": "ст.л."
+  },
+  "5": {
+    "name": "Масло подсолнечное",
+    "count": 2,
+    "measureUnit": "ст.л."
+  },
+  "6": {
+    "name": "Специи",
+    "count": 0,
+    "measureUnit": "по вкусу"
+  },
+  "7": {
+    "name": "Фасоль консервированная",
+    "count": 400,
+    "measureUnit": "г."
+  },
+  "8": {
+    "name": "Лимон",
+    "count": 1,
+    "measureUnit": "шт."
+  },
+  "9": {
+    "name": "Чеснок",
+    "count": 2,
+    "measureUnit": "зубчика"
+  },
+  "10": {
+    "name": "Масло оливковое",
+    "count": 50,
+    "measureUnit": "мл."
+  },
+  "11": {
+    "name": "Сыр творожный",
+    "count": 200,
+    "measureUnit": "г."
+  },
+  "12": {
+    "name": "Руколла",
+    "count": 100,
+    "measureUnit": "г."
+  },
+  "13": {
+    "name": "Лук красный",
+    "count": 50,
+    "measureUnit": "г."
+  },
+  "14": {
+    "name": "Чечевица красная",
+    "count": 150,
+    "measureUnit": "г."
+  },
+  "15": {
+    "name": "Лук репчатый",
+    "count": 1,
+    "measureUnit": "шт."
+  },
+  "16": {
+    "name": "Морковь",
+    "count": 1,
+    "measureUnit": "шт."
+  },
+  "17": {
+    "name": "Масло сливочное",
+    "count": 15,
+    "measureUnit": "г."
+  },
+  "18": {
+    "name": "Масло подсолнечное",
+    "count": 30,
+    "measureUnit": "мл."
+  },
+  "19": {
+    "name": "Мука пшеничная",
+    "count": 30,
+    "measureUnit": "г."
+  },
+  "20": {
+    "name": "Сливки 33%",
+    "count": 50,
+    "measureUnit": "мл."
+  },
+  "21": {
+    "name": "Специи",
+    "count": 0,
+    "measureUnit": "по вкусу"
+  },
+  "22": {
+    "name": "Лимон",
+    "count": 0,
+    "measureUnit": "шт."
+  },
+  "23": {
+    "name": "Мята",
+    "count": 0,
+    "measureUnit": "по вкусу"
+  },
+  "24": {
+    "name": "Помидоры",
+    "count": 3,
+    "measureUnit": "шт."
+  },
+  "25": {
+    "name": "Креветки королевские",
+    "count": 300,
+    "measureUnit": "г."
+  },
+  "26": {
+    "name": "Зеленый салат",
+    "count": 1,
+    "measureUnit": "пучок"
+  },
+  "27": {
+    "name": "Огурцы ",
+    "count": 2,
+    "measureUnit": "шт."
+  },
+  "28": {
+    "name": "Специи",
+    "count": 0,
+    "measureUnit": "по вкусу"
+  },
+  "29": {
+    "name": "Майонез",
+    "count": 0,
+    "measureUnit": "по вкусу"
+  },
+  "30": {
+    "name": "Семечки кунжутные",
+    "count": 3,
+    "measureUnit": "ст.л."
+  },
+  "31": {
+    "name": "Творог",
+    "count": 250,
+    "measureUnit": "г."
+  },
+  "32": {
+    "name": "Яйцо куриное",
+    "count": 3,
+    "measureUnit": "шт."
+  },
+  "33": {
+    "name": "Мука пшеничная",
+    "count": 8,
+    "measureUnit": "ст.л."
+  },
+  "34": {
+    "name": "Соль/сахар",
+    "count": 0,
+    "measureUnit": "по вкусу"
+  },
+  "35": {
+    "name": "Масло оливковое",
+    "count": 0,
+    "measureUnit": "по вкусу"
+  },
+  "36": {
+    "name": "Сода пищевая",
+    "count": 0,
+    "measureUnit": "ч.л."
+  },
+  "37": {
+    "name": "Сахарная пудра с ванилью",
+    "count": 0,
+    "measureUnit": "по вкусу"
+  }
+}
