@@ -1,0 +1,24 @@
+POST http://localhost:8080/ingredient
+Content-Type: application/json
+
+{
+  "name": "Специи",
+  "count": 0,
+  "measureUnit": "по вкусу"
+}
+
+###
+GET http://localhost:8080/ingredient
+###
+GET http://localhost:8080/ingredient/1
+###
+PUT http://localhost:8080/ingredient/2
+Content-Type: application/json
+
+{
+  "title": "Яйцо куриное",
+  "amount": 2,
+  "measureUnit": "шт."
+}
+###
+DELETE http://localhost:8080/ingredient/6
