@@ -1,6 +1,6 @@
 # Recipes Every Day App
 ## Приложение для хранения рецептов.
-![Image alt](https://github.com/KatOli4ka/RecipeApp/blob/master/img_bz1nMHV4Z2kmbD0yMXUwJmg9anBnJmY9Z2xtJmk9MTE.jpg
+![](https://github.com/KatOli4ka/RecipeApp/blob/master/img_bz1nMHV4Z2kmbD0yMXUwJmg9anBnJmY9Z2xtJmk9MTE.jpg
 Хранит рецепты и ингредиенты в JSON файлах. При запуске приложения данные считываются из файла.
 
 ### 💻Технологии
